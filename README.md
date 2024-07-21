@@ -1,10 +1,7 @@
 
-<div>
-    <h1 style="display: inline;">
-        Hi! I'm Francis, a Full-stack Developer & Ui/Ux Designer.
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50" style="display: inline; vertical-align: middle;">
-    </h1>
-</div>
+<h1>
+    Hi! I'm Francis, a Full-stack Developer & Ui/Ux Designer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
+</h1>
 
 # 👨‍💻 About Me
 
