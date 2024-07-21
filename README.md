@@ -1,7 +1,4 @@
-
-<h1>
-    Hi! I'm Francis, a Full-stack Developer & Ui/Ux Designer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
-</h1>
+# Hi! I'm Francis, a Full-stack Developer & UI/UX Designer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
 
 # 👨‍💻 About Me
 
